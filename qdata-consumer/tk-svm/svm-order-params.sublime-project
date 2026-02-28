@@ -1,0 +1,36 @@
+{
+	"folders":
+	[
+		{
+			"path": ".",
+            "folder_exclude_patterns": [
+                "build",
+            ]
+		}
+	],
+
+	"settings": {
+        "SublimeLinter.linters.g++.args": [
+        	"-std=c++14",
+            "-fopenmp",
+            "-fconcepts",
+            "-DTKSVM_SIMINCL=tksvm/gauge/gauge_sim.hpp",
+            "-DHEISENBERG_HAMILTONIAN",
+            "-DKAGOME",
+        ],
+        "SublimeLinter.linters.g++.I": [
+            "${project_path}/include",
+            "${project_path}/frustmag/include",
+        	"${project_path}/gauge/include",
+        	"${project_path}/ising/include",
+            "${project_path}/svm/include",
+            "${project_path}/svm/test",
+            "${project_path}/colormap/include",
+            "${project_path}/colormap/test",
+            "/usr/include/openmpi-x86_64",
+            "/usr/include/openmpi",
+            "/usr/local/include/eigen3",
+            "~/.local/include/eigen3",
+        ]
+    }
+}
