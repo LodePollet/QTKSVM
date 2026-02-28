@@ -1,0 +1,24 @@
+This data should be good.
+
+File                                                    | Shots | Mean  | Min   | Max   |
+2023_07_28_aklt_exp_8qubits_g-1_128000shots_1.yaml      |       | 0.842 | 0.788 | 0.879 | Good
+2023_07_28_aklt_exp_8qubits_g-09_128000shots_2.yaml     |       | 0.809 | 0.722 | 0.861 | Good
+2023_07_28_aklt_exp_8qubits_g-08_128000shots_2.yaml     |       | 0.826 | 0.754 | 0.863 | Good
+2023_07_28_aklt_exp_8qubits_g-07_128000shots_2.yaml     |       | 0.843 | 0.760 | 0.877 | Good
+2023_07_28_aklt_exp_8qubits_g-06_128000shots_1.yaml     |       | 0.831 | 0.777 | 0.873 | Good
+2023_07_28_aklt_exp_8qubits_g-05_128000shots_2.yaml     |       | 0.845 | 0.768 | 0.891 | Good
+2023_07_28_aklt_exp_8qubits_g-04_128000shots_1.yaml     |       | 0.820 | 0.763 | 0.866 | Good
+2023_07_28_aklt_exp_8qubits_g-03_128000shots_2.yaml     |       | 0.812 | 0.747 | 0.871 | Good
+2023_07_28_aklt_exp_8qubits_g-02_128000shots_1.yaml     |       | 0.819 | 0.715 | 0.870 | Good
+2023_07_28_aklt_exp_8qubits_g-01_128000shots_2.yaml     |       | 0.816 | 0.751 | 0.861 | Good
+2023_07_28_aklt_exp_8qubits_g-001_128000shots_1.yaml    |       | 0.803 | 0.742 | 0.860 | Good
+2023_07_28_aklt_exp_8qubits_g01_128000shots_2.yaml      |       | 0.833 | 0.763 | 0.883 | Good
+2023_07_28_aklt_exp_8qubits_g02_128000shots_1.yaml      |       | 0.828 | 0.773 | 0.879 | Good
+2023_07_28_aklt_exp_8qubits_g03_128000shots_2.yaml      |       | 0.809 | 0.678 | 0.863 | Good
+2023_07_28_aklt_exp_8qubits_g04_128000shots_1.yaml      |       | 0.794 | 0.711 | 0.837 | Good
+2023_07_28_aklt_exp_8qubits_g05_128000shots_2.yaml      |       | 0.764 | 0.643 | 0.832 | Good
+2023_07_28_aklt_exp_8qubits_g06_128000shots_1.yaml      |       | 0.775 | 0.686 | 0.837 | Good
+2023_07_28_aklt_exp_8qubits_g07_128000shots_2.yaml      |       | 0.740 | 0.669 | 0.802 | Good
+2023_07_28_aklt_exp_8qubits_g08_128000shots_1.yaml      |       | 0.741 | 0.569 | 0.829 | Good
+2023_07_28_aklt_exp_8qubits_g09_128000shots_2.yaml      |       | 0.754 | 0.580 | 0.854 | Good
+2023_07_28_aklt_exp_8qubits_g099_128000shots_2.yaml     |       | 0.757 | 0.569 | 0.850 | Good

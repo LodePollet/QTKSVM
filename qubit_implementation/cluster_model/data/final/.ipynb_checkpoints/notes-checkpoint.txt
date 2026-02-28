@@ -1,0 +1,24 @@
+This data should be good
+
+File                                                    | Shots | Mean  | Min   | Max   |
+2023_07_30_cluster_exp_7qubits_g-1_121500shots_1.yaml   |       | 0.944 | 0.813 | 0.985 | Good
+2023_07_30_cluster_exp_7qubits_g-09_121500shots_2.yaml  |       | 0.951 | 0.859 | 0.983 | Good
+2023_07_30_cluster_exp_7qubits_g-08_121500shots_1.yaml  |       | 0.949 | 0.869 | 0.979 | Good
+2023_07_30_cluster_exp_7qubits_g-07_121500shots_2.yaml  |       | 0.950 | 0.851 | 0.983 | Good
+2023_07_30_cluster_exp_7qubits_g-06_121500shots_1.yaml  |       | 0.949 | 0.884 | 0.983 | Good
+2023_07_30_cluster_exp_7qubits_g-05_121500shots_2.yaml  |       | 0.948 | 0.887 | 0.982 | Good
+2023_07_30_cluster_exp_7qubits_g-04_121500shots_1.yaml  |       | 0.950 | 0.890 | 0.983 | Good
+2023_07_30_cluster_exp_7qubits_g-03_121500shots_2.yaml  |       | 0.947 | 0.867 | 0.982 | Good
+2023_07_30_cluster_exp_7qubits_g-02_121500shots_1.yaml  |       | 0.950 | 0.887 | 0.985 | Good
+2023_07_30_cluster_exp_7qubits_g-01_121500shots_3.yaml  |       | 0.943 | 0.860 | 0.981 | Good
+2023_07_30_cluster_exp_7qubits_g-001_121500shots_8.yaml |       | 0.937 | 0.842 | 0.987 | Good
+2023_07_30_cluster_exp_7qubits_g01_121500shots_3.yaml   |       | 0.951 | 0.911 | 0.978 | Good
+2023_07_30_cluster_exp_7qubits_g02_121500shots_1.yaml   |       | 0.946 | 0.877 | 0.976 | Good
+2023_07_30_cluster_exp_7qubits_g03_121500shots_3.yaml   |       | 0.937 | 0.880 | 0.974 | Good
+2023_07_30_cluster_exp_7qubits_g04_121500shots_1.yaml   |       | 0.933 | 0.855 | 0.977 | Good
+2023_07_30_cluster_exp_7qubits_g05_121500shots_4.yaml   |       | 0.932 | 0.863 | 0.976 | Good
+2023_07_30_cluster_exp_7qubits_g06_121500shots_1.yaml   |       | 0.920 | 0.843 | 0.973 | Good
+2023_07_30_cluster_exp_7qubits_g07_121500shots_6.yaml   |       | 0.925 | 0.841 | 0.967 | Good
+2023_07_30_cluster_exp_7qubits_g08_121500shots_1.yaml   |       | 0.912 | 0.849 | 0.975 | Good
+2023_07_30_cluster_exp_7qubits_g09_121500shots_5.yaml   |       | 0.918 | 0.822 | 0.970 | Good
+2023_07_30_cluster_exp_7qubits_g1_121500shots_1.yaml    |       | 0.932 | 0.841 | 0.979 | Good
