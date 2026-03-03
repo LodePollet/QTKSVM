@@ -1,8 +1,11 @@
+from typing import Literal
+
 from qiskit import ClassicalRegister, QuantumRegister, QuantumCircuit
+
 from unitaries import u, u1
 
 
-def build_circuit(n, nphys, g, meas_basis):
+def build_circuit(n: int, nphys: int, g: float, meas_basis: list[Literal[0, 1, 2, 3]]) -> QuantumCircuit:
     # Create a circuit with qubit and classical registers
     qbits = QuantumRegister(n, 'q')
     clbits = ClassicalRegister(nphys, 'cl')
@@ -30,3 +33,8 @@ def build_circuit(n, nphys, g, meas_basis):
         circuit.measure(qbits[i], clbits[i - 1])
 
     return circuit
+
+
+if __name__ == '__main__':
+    qc = build_circuit(7, 5, -1, [0, 0, 0, 0, 0])
+    print(qc.draw())

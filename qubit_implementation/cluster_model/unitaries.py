@@ -7,11 +7,11 @@ def u1(circ, g, qa, qb):
     thetaR = np.arcsin(gfac) * 2
 
     circ.h(qa)
-    circ.cnot(qa, qb)
+    circ.cx(qa, qb)
     circ.u(thetaR, 0, np.pi, qb)
     if g > 0:
         circ.h(qb)
-        circ.cnot(qa, qb)
+        circ.cx(qa, qb)
         circ.h(qb)
     return circ
 
@@ -24,11 +24,11 @@ def u(circ, g, qa, qb):
 
     circ.x(qa)
     circ.u(thetaW, 0, 0, qb)
-    circ.cnot(qa, qb)
+    circ.cx(qa, qb)
     circ.x(qa)
     circ.u(-thetaW, 0, 0, qb)
     circ.u(thetaV, 0, 0, qb)
-    circ.cnot(qa, qb)
+    circ.cx(qa, qb)
     circ.x(qa)
     circ.u(-thetaV, 0, 0, qb)
     return circ
