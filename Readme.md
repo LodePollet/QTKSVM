@@ -4,8 +4,8 @@ This repository is a general client code for [TK-SVM] (copied into qdata-consume
 a theoretical description of the method.
 See the qdata-consumer directory for more information.
 
-The raw data and the Qiskit circuits for the [paper] can be found in `qubit_implementation` and `qutrit_implementation`
-folders.
+The raw data and the Qiskit circuits for the [paper] can be found in [qubit_implementation] and [qutrit_implementation] folders. 
+See [check_data.py] and [circuits.py] for examples.
 
 
 [//]: # (external links)
@@ -14,9 +14,13 @@ folders.
 
 [paper]: <https://arxiv.org/abs/2408.05017>
 
+[qubit_implementation]: <https://github.com/LodePollet/QTKSVM/tree/main/qubit_implementation>
 
+[qutrit_implementation]: <https://github.com/LodePollet/QTKSVM/tree/main/qutrit_implementation>
 
+[check_data.py]: <https://github.com/LodePollet/QTKSVM/tree/main/qubit_implementation/check_data.py>
 
+[circuits.py]: <https://github.com/LodePollet/QTKSVM/tree/main/qubit_implementation/cluster_model/circuits.py>
 
 
 
